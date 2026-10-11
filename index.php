@@ -6,7 +6,6 @@
 	<meta name="theme-color" content="#174d3b">
 	<?php echo Theme::metaTagTitle(); ?>
 	<?php echo Theme::metaTagDescription(); ?>
-	<?php echo Theme::favicon('img/favicon.png'); ?>
 	<?php echo Theme::css('css/style.css'); ?>
 	<?php Theme::plugins('siteHead'); ?>
 </head>

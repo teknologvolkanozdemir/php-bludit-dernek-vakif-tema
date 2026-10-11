@@ -17,4 +17,4 @@ Tema Bludit 3.x ve 4.x için hazırlanmıştır. Türkçe arayüzü hedefler; zi
 - Semantik başlıklar, gezinme alanı ve ana içerik kullanılır.
 - Klavye odağı görünürdür; gezinme geçerli sayfayı `aria-current` ile belirtir.
 - Dar ekranlar, azaltılmış hareket tercihi ve yüksek kontrast/forced-colors modu desteklenir.
-- Dekoratif simgeler ekran okuyuculardan gizlenir; içerik görsellerine boş alt metin verilir.
+- Dekoratif simgeler ekran okuyuculardan gizlenir; kapak görselleri anlamlı alternatif metin kullanır.
